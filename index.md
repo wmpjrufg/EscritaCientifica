@@ -22,7 +22,7 @@ Portanto você usuário deste REA poderá acessar o índice abaixo para consulta
 <h2>Índice</h2>
 <ul>
   <!--<li>Conceito de ciência e métodos científicos</li>-->
-  <li><a href="https://wmpjrufg.github.io/EscritaCientifica/docs/page1.html" target="_blank">Construção do projeto de pesquisa</a></li>
+  <li><a href="https://wmpjrufg.github.io/EscritaCientifica/docs/page1-projeto-pesquisa.html" target="_blank">Construção do projeto de pesquisa</a></li>
   <!--<li>Tema 3</li>-->
 </ul>
 
