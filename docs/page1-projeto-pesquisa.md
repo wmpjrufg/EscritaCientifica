@@ -67,7 +67,7 @@ O nosso modelo padrão pode ser acessado clicando  em um dos <i>links</i> abaixo
 Nesta seção vamos construir um projeto de pesquisa do <b>zero</b>. Para fazer esta construção vamos expor algumas dicas/regras básicas de formatação e elaboração do manuscrito.
 <br>
 <br>
-Portanto vamos estabelecer algumas regras para a construção do texto padrão de acordo com o modelo estabelecido pela Faculdade de Engenharia - Departamento de Engenharia Civil.</p>
+</p>
 
 <h3><i>Informações gerais sobre a formatação e construção do texto</i></h3>
 
