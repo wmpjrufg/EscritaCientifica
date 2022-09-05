@@ -13,11 +13,13 @@ A escolha do problema de pesquisa também pode ser guiada por interesse pessoal,
 ângulos. Observe as obras e críticas feitas por diversos autores sobre esse tópico. 
 </p>
 
+<!--
 <h2>Relevância do projeto para o desenvolvimento científico, tecnológico ou de inovação</h2>
 
 <p align="justify">
 Aqui colocar um texto
 </p>
+-->
 
 <h2>Elementos de um projeto de pesquisa</h2>
 
