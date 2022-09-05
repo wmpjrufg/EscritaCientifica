@@ -27,6 +27,7 @@ Aqui colocar um texto
 Nesta seção apresentaremos o nosso modelo de projeto de pesquisa e os seus elementos básicos. Salientamos aqui que esse modelo foi construído a partir da experiência dos professores com a submissão de projetos em orgãos de fomento, na própria universidade ou em apresentações para empresas. Tendo em vista o informado são elementos básicos de um projeto de pesquisa:
 </p>
 
+<--!
 <dl>
     <dt>Elementos pré-textuais</dt>
         <dd>Folha de rosto (obrigatório)</dd>
@@ -46,6 +47,7 @@ Nesta seção apresentaremos o nosso modelo de projeto de pesquisa e os seus ele
         <dd>Apêndices (opcional)</dd>
         <dd>Anexos (opcional)</dd>
 </dl>
+-->
 
 <p align="justify">
 O nosso modelo padrão pode ser acessado clicando  em um dos <i>links</i> abaixo.  
