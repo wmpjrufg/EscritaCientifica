@@ -19,7 +19,7 @@ A escolha do problema de pesquisa também pode ser guiada por interesse pessoal,
 Aqui colocar um texto
 </p>
 
-<h2>Elementos de um projeto de pesquisa WANDERLEI ARRUMOU</h2>
+<h2>Elementos de um projeto de pesquisa</h2>
 
 <p align="justify">
 Nesta seção apresentaremos o nosso modelo de projeto de pesquisa e os seus elementos básicos. Salientamos aqui que esse modelo foi construído a partir da experiência dos professores com a submissão de projetos em orgãos de fomento, na própria universidade ou em apresentações para empresas. Tendo em vista o informado são elementos básicos de um projeto de pesquisa:
